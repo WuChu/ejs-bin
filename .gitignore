@@ -1,0 +1,10 @@
+bak
+test
+original
+.DS_Store
+web_modules
+node_modules
+npm-debug.log
+
+/output
+/mock-server/public/ernie
