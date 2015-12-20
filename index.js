@@ -14,7 +14,7 @@ program.version('0.0.1')
     .usage('[options] <file ...>')
     .option('-c, --configs <items>', 'Config files', list)
     .option('-o, --output [dirname]', 'Output dirname')
-    .option('-e, --ext [extname]', 'Output extname')
+    .option('-e, --extname [extname]', 'Output extname')
     .parse(process.argv);
 
 // console.log(program.args);
