@@ -1,6 +1,6 @@
 {
   "name": "ejs-bin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple CMD script for ejs",
   "main": "index.js",
   "bin": "./bin/cli.js",
