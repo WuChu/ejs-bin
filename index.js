@@ -10,7 +10,7 @@ var list = function (val) {
     return val.split(',');
 };
 
-program.version('0.0.1')
+program.version('0.0.6')
     .usage('[options] <file ...>')
     .option('-c, --configs <items>', 'Config files', list)
     .option('-o, --output [dirname]', 'Output dirname')
